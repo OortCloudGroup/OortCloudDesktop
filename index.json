@@ -1,0 +1,15 @@
+{
+    "productName": "OortCloud Desktop",
+    "appId": "OORTCLOUD-DESKTOP-2024-1234-5678",
+    "version": "1.0.2",
+    "releaseTime": "2026-04-24T21:30:00+08:00",
+    "forceUpdate": false,
+    "installerUrl": "http://192.168.88.56/OortCloudDesktop_Setup.exe",
+    "installerSha256": "",
+    "installerSize": 0,
+    "installerArgs": "/VERYSILENT /NORESTART /SUPPRESSMSGBOXES",
+    "changelog": [
+        "添加自动更新逻辑，用户无需手动下载和安装更新",
+        "优化扩展界面设计，提升用户体验"
+    ]
+}
