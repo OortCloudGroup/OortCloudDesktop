@@ -4,7 +4,7 @@
     "version": "1.0.2",
     "releaseTime": "2026-04-24T21:30:00+08:00",
     "forceUpdate": false,
-    "installerUrl": "http://192.168.88.56/OortCloudDesktop_Setup.exe",
+    "installerUrl": "https://github.com/OortCloudGroup/OortCloudDesktop/releases/download/v1.0.2/oortcloud-desktop.exe",
     "installerSha256": "",
     "installerSize": 0,
     "installerArgs": "/VERYSILENT /NORESTART /SUPPRESSMSGBOXES",
