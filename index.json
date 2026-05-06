@@ -4,7 +4,7 @@
     "version": "1.0.5",
     "releaseTime": "2026-05-06T21:30:00+08:00",
     "forceUpdate": false,
-    "installerUrl": "https://github.com/OortCloudGroup/OortCloudDesktop/releases/download/v1.0.4/OortCloudDesktop_Setup.exe",
+    "installerUrl": "https://github.com/OortCloudGroup/OortCloudDesktop/releases/download/v1.0.5/OortCloudDesktop_Setup.exe",
     "installerSha256": "",
     "installerSize": 0,
     "installerArgs": "/VERYSILENT /NORESTART /SUPPRESSMSGBOXES",
