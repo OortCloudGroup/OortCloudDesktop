@@ -67,6 +67,20 @@ OortDesktop 面向桌面场景，基于 Chromium 提供现代浏览能力，并�
 - 功能模块设计
 - 发布与版本记录
 
+## 发布信息更新
+
+使用脚本自动更新 `index.json` 的版本、发布时间、安装包地址版本号、安装包 SHA256 和安装包大小。
+
+```powershell
+.\scripts\update-index.ps1 -Version 1.0.7 -InstallerPath "G:\lanjian\nginx\html_88_56\OortCloudDesktop_Setup.exe"
+```
+
+参数说明：
+
+- `-Version`：目标版本号，例如 `1.0.7`
+- `-InstallerPath`：安装包路径，默认读取项目根目录下的 `OortCloudDesktop_Setup.exe`
+- `-JsonPath`：更新文件路径，默认读取项目根目录下的 `index.json`
+
 ## 许可证说明
 
 本项目包含基于 Chromium 的相关内容，许可证文件见：

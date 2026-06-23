@@ -1,15 +1,15 @@
 {
-    "productName": "OortCloud Desktop",
-    "appId": "OORTCLOUD-DESKTOP-2024-1234-5678",
-    "version": "1.0.6",
-    "releaseTime": "2026-06-23T21:30:00+08:00",
-    "forceUpdate": false,
-    "installerUrl": "https://gitcode.com/OortCloudGroup/OortDesktop/releases/download/v1.0.6/OortCloudDesktop_Setup.exe",
-    "installerSha256": "",
-    "installerSize": 0,
-    "installerArgs": "/VERYSILENT /NORESTART /SUPPRESSMSGBOXES",
-    "changelog": [
-        "调整默认的更新路径",
-        "调整安装目录为默认不需要用户确定"
-    ]
+  "productName": "OortCloud Desktop",
+  "appId": "OORTCLOUD-DESKTOP-2024-1234-5678",
+  "version": "1.0.6",
+  "releaseTime": "2026-06-23T10:55:04+08:00",
+  "forceUpdate": false,
+  "installerUrl": "https://gitcode.com/OortCloudGroup/OortDesktop/releases/download/v1.0.6/OortCloudDesktop_Setup.exe",
+  "installerSha256": "585762720f09614910b572b534d5437a2179673240cfacc3e2567635d900a4a4",
+  "installerSize": 185659868,
+  "installerArgs": "/VERYSILENT /NORESTART /SUPPRESSMSGBOXES",
+  "changelog": [
+    "调整默认的更新路径",
+    "调整安装目录为默认不需要用户确定"
+  ]
 }
